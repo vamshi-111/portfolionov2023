@@ -1,0 +1,7 @@
+#ignoring all files and modules related to virtual environment as they are unnessary
+
+/virtual_env
+
+#ignoring the cache files
+
+/project/__pycache__
